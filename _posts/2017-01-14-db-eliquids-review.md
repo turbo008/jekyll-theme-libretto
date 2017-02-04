@@ -2,9 +2,9 @@
 published: true
 ---
 <figure>
-	<img src="{{ site.baseurl }}/assets/cakeup.jpg" alt="Cake-Up">
+	<img src="{{ site.baseurl }}/assets/cakeup.jpg" alt="Caked-Up and Split">
 	<figcaption>
-		Cake-Up
+		Split & Caked-Up
 	</figcaption>
 </figure>
 DBLiquids is a company that knows what they are doing when it comes to blending together e-juices. They offer premium e-juices at a standard price.
