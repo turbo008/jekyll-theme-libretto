@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: E-Juice Guide Find The Greatest Option
-email: your-email@domain.com
+email: eric@ejuiceguide.net
 description: > # this means to ignore newlines until "baseurl:"
   This website is all about how to choose the best e-liquids, how to
   quit smoking easier, how to vape cheaper, etc. Our community is
