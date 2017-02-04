@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## A New Post
-
 As a nicotine user, you don't need to be told how hard it is to quit smoking. While many people find the gum is helpful, or the patches, a much larger number of individuals find all quit-smoking methods to be useless. If you're one of those individuals, there are other options you can look into. In this article, we're going to discuss how e-cigarettes can be used to help you break your addiction to nicotine. The break will be gradual, as to not induce a shock to your system, and you'll hardly notice a change in your lifestyle.
 <figure>
 	<img src="{{ site.baseurl }}/assets/07940637abf377c63370b80c800b51e8.jpg" alt="quit smoking">
