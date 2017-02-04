@@ -17,7 +17,12 @@ The initial cost to purchasing an e-cigarette unit and a collection of flavors m
 But how does an e-cigarette help you quit smoking, you ask? Isn't it just replacing one addiction with another. This is potentially the case, if you're not fully committed to the idea of quitting smoking. If you are, this method is reliable, safe and effective.
 
 You would start with buying e-liquids that have the nicotine content you're used to in your cigarettes. The highest content available. Slowly, you will decrease your nicotine levels. Each time you buy a new e-liquid, you'll purchase a lower nicotine content. Slowly, as you decrease your levels, you'll notice the nicotine addiction leaving your system. This gradual decrease saves you the craving of nicotine as well as the withdrawals you might experience if you tried another method of quitting.
-
+<figure>
+	<img src="{{ site.baseurl }}/assets/ejuice.jpg" alt="quit smoking">
+	<figcaption>
+		Great Vape Juices
+	</figcaption>
+</figure>
 You may decide to even buy two kits, having a variety of e-cigarettes available to you. They might be different flavors, so you can switch them out whenever you feel like. You might also choose to have those other e-cigarettes be nicotine-free. This way, you're not inhaling the nicotine every single time you inhale from one of your e-cigarettes. This is another good method to reducing how much nicotine is in your system. Of course, you can do this while also decreasing the nicotine content in your e-liquids.
 
 The reason this method is so effective is because gradually taking yourself away from any addiction is the best way to ease your body and mind into no longer needing said addiction. Cigarettes, being the worst addiction, need to be approached with this method, if you want to truly quit them for good.
